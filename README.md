@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ahnix
+- 👀 I’m interested in JS
+- 🌱 I’m currently learning everything was possible
+- 💞️ I’m looking to collaborate on community codes
+- 📫 How to reach me ramonalmeida@icloud.com
